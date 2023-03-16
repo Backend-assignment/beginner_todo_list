@@ -32,7 +32,7 @@ The database schema for the TODO List API is as follows:
 |task|text||The task description|
 |description|text||The additional details about the task|
 |completed|boolean|false|Whether the task is completed or not|
-|created_at|datetime||The date and time the task was created|
+|created_at|datetime| |The date and time the task was created|
 |updated_at|datetime||The date and time the task was last updated|
 
 ## API Endpoints

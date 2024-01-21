@@ -1,0 +1,66 @@
+{
+    "texts": {
+        "1": {
+            "text_id": "1011",
+            "text": "Soat 6:15 tish yuvaman."
+        },
+        "2": {
+            "text_id": "1011",
+            "text": "Soat 6:15 tish yuvaman."
+        },
+        "3": {
+            "text_id": "1013",
+            "text": "Soat 6:30 choy ichaman."
+        },
+        "4": {
+            "text_id": "1014",
+            "text": "Soat 7:00 telefondan foydalanaman."
+        },
+        "5": {
+            "text_id": "1015",
+            "text": "Soat 7:30 universitetga boraman."
+        }
+    },
+    "users": {
+        "5": {
+            "1015": {
+                "done": true,
+                "failed": false
+            },
+            "1014": {
+                "done": true,
+                "failed": false
+            },
+            "1013": {
+                "done": true,
+                "failed": false
+            }
+        },
+        "4": {
+            "1012": {
+                "done": true,
+                "failed": false
+            }
+        },
+        "1": {
+            "1011": {
+                "done": true,
+                "failed": false
+            },
+            "1013": {
+                "done": false,
+                "failed": true
+            }
+        },
+        "2": {
+            "1012": {
+                "done": false,
+                "failed": true
+            },
+            "1013": {
+                "done": false,
+                "failed": true
+            }
+        }
+    }
+}
